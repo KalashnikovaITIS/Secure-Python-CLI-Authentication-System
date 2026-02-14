@@ -26,5 +26,5 @@ It is designed with clean **object-oriented programming (OOP)** principles and a
 cd <project-folder>
 
 Run the application:
-python login_system.py
-Requires Python 3.x
+- python login_system.py
+- Requires Python 3.x
